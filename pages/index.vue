@@ -6,7 +6,7 @@
         gyles-portfolio
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        Gyles
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
